@@ -1,5 +1,6 @@
-# -web-
-Fastapi+Jinja2+uvicorn组成的web后端，请按照介绍.exe进行使用
-首先您先运行Fastapi+Jinja2+uvicorn后端安装程序，
-安装完成后您需要运行 介绍.exe 
-根据提示的内容操作
+# 库介绍：
+这是一个由Fastapi+Jinja2+uvicorn组成的简易web后端，您可以直接套用到任何简易的网站后端中。
+该项目提供最大30g的下载功能，使用流式上传，client端下载完成后尽可能的释放资源。
+# 使用方式：
+ 首先您先运行Fastapi+Jinja2+uvicorn后端安装程序，安装完成后您需要运行 介绍.exe 
+根据提示的内容操作完成必要的第三方库安装，以及如何使用。
